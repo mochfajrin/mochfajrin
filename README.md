@@ -1,13 +1,14 @@
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+%5E%5E;Hi+%F0%9F%91%8B%2C+I'm+Mochammad+Fajrin)](https://git.io/typing-svg)
-![](./assets/touhou-kogasa.gif)
 
 </p>
 
+<img align="center" src="./assets/touhou-kogasa.gif">
+
 <h3 align="center">A passionate Frontend Developer and Backend Developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=mochfajrin&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="center" src="./assets/kogasa-tatara-kogasa.gif">
 
 - 🌱 I’m currently **Node.js and PHP**
 
@@ -23,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochfajrin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558249171598)
 
-![](./assets/kogasa-tatara-kogasa.gif)
+![](https://github.com/mochfajrin/mochfajrin/blob/main/assets/kogasa-tatara-kogasa.gif)
 
 # 💻 My Skills :
 
@@ -79,4 +80,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](./assets//touhou-speech-bubble.gif)
+<img align="center" src="./assets/cirno-speech.gif">
