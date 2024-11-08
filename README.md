@@ -89,3 +89,5 @@ Frameworks, Database Management Systems, and Cloud Platforms
 <p align="center">
   <img  src="./assets/kogasa-tatara-kogasa.gif">
 </p>
+
+---
