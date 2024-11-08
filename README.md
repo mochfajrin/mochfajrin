@@ -12,13 +12,13 @@ Database Management. Through my coursework and internships, I have gained experi
 Frameworks, Database Management Systems, and Cloud Platforms
 </p>
 
-- 🌱 I’m currently **Node.js and PHP**
+- 🌱 I’m currently learning **Node.js and PHP**
 
 - 💬 Ask me about **JavaScript, PHP and Linux ^^**
 
 - 📫 How to reach me **mochfajrin1211@gmail.com**
 
-- ⚡ Fun fact **Linux and Touhou Project Fans is Best**
+- ⚡ Fun fact **Linux and Touhou Fandom is Something**
 
 <p align="center">
   <img width="500" src="./assets/touhou-kogasa.gif">
