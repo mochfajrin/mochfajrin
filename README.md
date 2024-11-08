@@ -20,7 +20,9 @@ Frameworks, Database Management Systems, and Cloud Platforms
 
 - ⚡ Fun fact **Linux and Touhou Project Fans is Best**
 
-<img align="center" src="./assets/touhou-kogasa.gif">
+<p align="center">
+  <img width="500" src="./assets/touhou-kogasa.gif">
+</p>
 
 # 🌐 Socials:
 
@@ -84,4 +86,6 @@ Frameworks, Database Management Systems, and Cloud Platforms
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="center" src="./assets/kogasa-tatara-kogasa.gif">
+<p align="center">
+  <img  src="./assets/kogasa-tatara-kogasa.gif">
+</p>
