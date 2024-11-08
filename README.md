@@ -4,7 +4,13 @@
 
 </p>
 
-<h3 align="center">A passionate Frontend Developer and Backend Developer</h3>
+<h2 align="center">A passionate Frontend Developer and Backend Developer</h2>
+<p align="justify">
+ I am an  full-stack web development 
+and am confident in my ability to contribute to projects and teams related to Web Development, such as Front-End, Back-End, and 
+Database Management. Through my coursework and internships, I have gained experience in popular Front-End or Back-End 
+Frameworks, Database Management Systems, and Cloud Platforms
+</p>
 
 - 🌱 I’m currently **Node.js and PHP**
 
@@ -14,7 +20,7 @@
 
 - ⚡ Fun fact **Linux and Touhou Project Fans is Best**
 
-<img align="center" src="https://github.com/mochfajrin/mochfajrin/blob/main/assets/touhou-kogasa.gif">
+<img align="center" src="./assets/touhou-kogasa.gif">
 
 # 🌐 Socials:
 
@@ -22,9 +28,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochfajrin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558249171598)
 
-# 💻 My Skills :
+# 💻 My Skills:
 
-# Frontend Stacks :
+# Frontend Stacks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +42,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-# Backend Stacks :
+# Backend Stacks:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -46,10 +52,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-# Tools :
+# Tools:
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -66,14 +70,16 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 My GitHub Stats :
+# 📊 My GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mochfajrin&theme=tokyonight)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mochfajrin&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=mochfajrin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# ✍️ Today Quotes :
+# ✍️ Today Quotes:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="center" src="https://github.com/mochfajrin/mochfajrin/blob/main/assets/kogasa-tatara-kogasa.gif">
+<img align="center" src="./assets/kogasa-tatara-kogasa.gif">
