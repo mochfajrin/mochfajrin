@@ -4,11 +4,9 @@
 
 </p>
 
-<img align="center" src="./assets/touhou-kogasa.gif">
+<img align="center" src="https://github.com/mochfajrin/mochfajrin/blob/main/assets/touhou-kogasa.gif">
 
 <h3 align="center">A passionate Frontend Developer and Backend Developer</h3>
-
-<img align="center" src="./assets/kogasa-tatara-kogasa.gif">
 
 - 🌱 I’m currently **Node.js and PHP**
 
@@ -24,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochfajrin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558249171598)
 
-![](https://github.com/mochfajrin/mochfajrin/blob/main/assets/kogasa-tatara-kogasa.gif)
+<img align="center" src="https://github.com/mochfajrin/mochfajrin/blob/main/assets/kogasa-tatara-kogasa.gif">
 
 # 💻 My Skills :
 
@@ -80,4 +78,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="center" src="./assets/cirno-speech.gif">
+<img align="center" src="https://github.com/mochfajrin/mochfajrin/blob/main/assets/cirno-speech.gif">
