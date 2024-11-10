@@ -29,7 +29,7 @@ Frameworks, Database Management Systems, and Cloud Platforms
 
 # 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto"mochfajrin1211@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mochfajrin1211@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochfajrin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558249171598)
 
@@ -92,5 +92,6 @@ Frameworks, Database Management Systems, and Cloud Platforms
 <p align="center">
   <img  src="./assets/kogasa-tatara-kogasa.gif">
 </p>
+<h1 align="center">◝(ᵔᗜᵔ)◜ Enjoy Your Visit (⸝⸝> ᴗ•⸝⸝)</h1>
 
 ---
