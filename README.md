@@ -7,8 +7,8 @@
 <h2 align="center">A passionate Frontend Developer and Backend Developer</h2>
 
 <p align="justify">
- I am an  full-stack web development 
-and am confident in my ability to contribute to projects and teams related to Web Development, such as Front-End, Back-End, and 
+ Hello, my name is <strong>Mochammad Fajrin</strong> I'm a Web Developer 
+and I'm confident in my ability to contribute to projects and teams related to Web Development, such as Front-End, Back-End, and 
 Database Management. Through my coursework and internships, I have gained experience in popular Front-End or Back-End 
 Frameworks, Database Management Systems, and Cloud Platforms
 </p>
